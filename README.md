@@ -22,12 +22,13 @@
 <br/>
 
 - 💬 I am Currently Learning in Masai School
-- 📫 Reach me **onlyjeet3@gmail.com**
+- 📫 Reach me **hemantjain1321@gmail.com**
+<!--
 - 💬 As me About **MERN Stack**
 - :open_file_folder: <a href="https://jain-hemant.github.io" target="_blank" >This is my Portfolio</a>
 - :page_facing_up:  <a href="https://github.com/jain-hemant/RESUME/raw/main/Vishwajeet-Haldar-Resume.pdf" target="_blank">This is my Resume</a>
 <br/>
-
+-->
 <!--
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Vishwajeet+Haldar!;Learner+Full+Stack+Web+Developer...;" style="width: 100%;">
@@ -38,6 +39,7 @@
 
 <h2 align="left">Tech Stacks:</h2>
 
+<!--
 <h3>Frontend </h3>
 
 <div>
@@ -49,6 +51,7 @@
 	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/js.svg" alt="react" width="40" height="40"/>  &nbsp;
 	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar.github.io/blob/master/public/logo/icons/next.png?raw=true" alt="nextjs" width="60" height="40"/> &nbsp;
 </div>
+
 <h3>Backend </h3>
 <div>
 	<img src="https://github.com/jain-hemant/vishwajeethaldar/blob/main/images/nodejs.svg" alt="react" width="40" />  &nbsp; &nbsp;
@@ -57,6 +60,7 @@
 	<img src="https://github.com/jain-hemant/vishwajeethaldar.github.io/blob/master/public/logo/icons/next.png?raw=true" alt="nextjs" width="60" height="40"/> &nbsp;
 	
 </div>
+-->
 <h2> Data Structure and Algorithms </h2>
 
 <br/>
