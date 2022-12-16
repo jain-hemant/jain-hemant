@@ -1,12 +1,12 @@
 <!-- Title -->
 
 
-<h1 align="center">Hi , <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" > I am Vishwajeet Haldar </h1>
+<h1 align="center">Hi , <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" > I am Hemant Jain </h1>
 <p>
 	<!-- Visitors -->
-	<img src="https://visitor-badge.laobi.icu/badge?page_id=vishwajeethaldar.repoName" />
+	<img src="https://visitor-badge.laobi.icu/badge?page_id=jain-hemant.repoName" />
 	<!-- Follow -->
-	<img src="https://img.shields.io/github/followers/vishwajeethaldar.svg?style=social&label=Follow"/> 
+	<img src="https://img.shields.io/github/followers/jain-hemant.svg?style=social&label=Follow"/> 
 </p>
 
 <!-- GIF Image  -->
@@ -24,8 +24,8 @@
 - 💬 I am Currently Learning in Masai School
 - 📫 Reach me **onlyjeet3@gmail.com**
 - 💬 As me About **MERN Stack**
-- :open_file_folder: <a href="https://vishwajeethaldar.github.io" target="_blank" >This is my Portfolio</a>
-- :page_facing_up:  <a href="https://github.com/vishwajeethaldar/RESUME/raw/main/Vishwajeet-Haldar-Resume.pdf" target="_blank">This is my Resume</a>
+- :open_file_folder: <a href="https://jain-hemant.github.io" target="_blank" >This is my Portfolio</a>
+- :page_facing_up:  <a href="https://github.com/jain-hemant/RESUME/raw/main/Vishwajeet-Haldar-Resume.pdf" target="_blank">This is my Resume</a>
 <br/>
 
 <!--
