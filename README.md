@@ -61,8 +61,9 @@
 	
 </div>
 -->
+<!--
 <h2> Data Structure and Algorithms </h2>
-
+-->
 <br/>
 <!-- Statistical Data  -->
 <h3>Statistical Data :-</h3>
