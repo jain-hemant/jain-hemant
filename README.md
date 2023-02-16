@@ -1,6 +1,5 @@
 <h2> Hi, I'm Hemant Jain! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif]
-                        [https://lh3.googleusercontent.com/a/AEdFTp7_kNYMEC5TbOUYpk3EmaHHBztTyJvbjNOlbRkO5Q=s360-p-rw-no]" width="230">
+<img align='right' src="[https://lh3.googleusercontent.com/a/AEdFTp7_kNYMEC5TbOUYpk3EmaHHBztTyJvbjNOlbRkO5Q=s360-p-rw-no]" width="230">
 
 <!--<p><em> Full Stack Web Developer at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
