@@ -88,7 +88,7 @@
 	
 <!-- Git States  -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jain-hemant&show_icons=true" width="100%" height="30%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jain-hemant&show_icons=true" width="100%" height="100px"/> 
 
 </div>
 
