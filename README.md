@@ -85,10 +85,10 @@
 <div align="center">
 
 <!-- Most USed Language  -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jain-hemant&show_icons=true"/> <br />
-
+	
 <!-- Git States  -->
-<img src="https://github-readme-stats.vercel.app/api?username=jain-hemant" />
+<img src="https://github-readme-stats.vercel.app/api?username=jain-hemant" />	<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jain-hemant&show_icons=true"/> 
 
 </div>
 
