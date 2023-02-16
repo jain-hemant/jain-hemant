@@ -78,6 +78,7 @@
 <div >
 <!-- align="center" -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=jain-hemant" style="margin-left:150px;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jain-hemant" /> 
 <div>
 
 	
@@ -86,7 +87,7 @@
 <!-- Most USed Language  -->
 	
 <!-- Git States  -->
-<img src="https://github-readme-stats.vercel.app/api?username=jain-hemant" /> &nbsp;
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jain-hemant&show_icons=true"/> 
 
 </div>
