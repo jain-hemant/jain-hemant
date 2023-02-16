@@ -88,7 +88,7 @@
 	
 <!-- Git States  -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jain-hemant&show_icons=true" width="100%" height="100px"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jain-hemant&show_icons=true" width="400" height="200px"/> 
 
 </div>
 
@@ -99,7 +99,7 @@
 <br />
 <!-- Graph Data  -->
 
-<img src="https://activity-graph.herokuapp.com/graph?username=jain-hemant&theme=tokyonight" width="100%" style="margin-top:20px;"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=jain-hemant&theme=tokyonight" width="100%" style="margin-top:100px;"/>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
