@@ -12,7 +12,7 @@
 
 
 
-[![Linkedin: Hemant Jain](https://img.shields.io/badge/-Hemant Jain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemantjain1321/)](https://www.linkedin.com/in/hemantjain1321/)
+[![Linkedin: Hemant Jain](https://img.shields.io/badge/-hemantjain1321-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemantjain1321/)](https://www.linkedin.com/in/hemantjain1321/)
 
 
 [![Linkedin: Hemant jain](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
