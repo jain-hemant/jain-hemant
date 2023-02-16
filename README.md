@@ -39,10 +39,18 @@
 
 <h2 align="left">Tech Stacks:</h2>
 
+<div>
+	<img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg alt="Visual Basic" width="40" height="40"/>  &nbsp;
+	<img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg alt="Python" width="40" height="40"/> 
+</div>
+
 <!--
 <h3>Frontend </h3>
 
 <div>
+	<img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg alt="Visual Basic" width="40" height="40"/>  &nbsp;
+	<img src="[https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg](https://www.python.org/) alt="Python" width="40" height="40"/> 
+
 	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/react.svg" alt="react" width="40" height="40"/>  &nbsp;
 	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/redux.svg" alt="react" width="40" height="40"/>  &nbsp;
 	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/chakra-ui.png" alt="react" width="40" height="40"/>  &nbsp;
