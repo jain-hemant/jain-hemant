@@ -7,5 +7,5 @@
 -->
 
 [![Twitter: Hemant Jain](https://img.shields.io/twitter/follow/hemantjain1321?style=social)](https://twitter.com/hemantjain1321)
-[![Linkedin: Hemant Jain](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: Hemant Jain](https://img.shields.io/badge/-Hemant Jain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemantjain1321/)](https://www.linkedin.com/in/hemantjain1321/)
 [![GitHub Hemant Jain](https://img.shields.io/github/followers/jain-hemant?label=follow&style=social)](https://github.com/jain-hemant)
