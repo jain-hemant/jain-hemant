@@ -77,7 +77,7 @@
 
 <div >
 <!-- align="center" -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jain-hemant" style="margin-left:150px;"/>  &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jain-hemant" style="margin-left:150px;"/>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=jain-hemant" /> 
 <div>
 
