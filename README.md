@@ -41,7 +41,6 @@
 
 <div>
 	<img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg alt="Visual Basic" width="40" height="40"/>  &nbsp;
-	<img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg alt="Python" width="40" height="40"/> 
 </div>
 
 <!--
@@ -82,12 +81,12 @@
 <div>
 
 	
-<div align="center">
+<div align="left">
 
 <!-- Most USed Language  -->
 	
 <!-- Git States  -->
-<img src="https://github-readme-stats.vercel.app/api?username=jain-hemant" />	<br />
+<img src="https://github-readme-stats.vercel.app/api?username=jain-hemant" />	&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jain-hemant&show_icons=true"/> 
 
 </div>
