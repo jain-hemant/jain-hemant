@@ -75,8 +75,8 @@
 <!-- Statistical Data  -->
 <h3>Statistical Data :-</h3>
 
-<div align="center">
-<!--  -->
+<div >
+<!-- align="center" -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=jain-hemant" style="margin-left:150px;"/>
 <div>
 
