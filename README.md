@@ -82,7 +82,7 @@
 <div>
 
 	
-<div >
+<div width="80%">
 
 <!-- Most USed Language  -->
 	
