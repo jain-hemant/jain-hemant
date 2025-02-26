@@ -1,10 +1,10 @@
 <!-- ![image](https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8&w=1000&q=80) -->
-[![MasterHead](static\images\gh_header.png)](https://jain-hemant.github.io/)
+<!-- [![MasterHead](static\images\gh_header.png)](https://jain-hemant.github.io/) -->
 <!-- [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://jain-hemant.github.io/) -->
-<!-- 
-    <a href="https://github.com/jain-hemant/">
-        <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/jain-hemant?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@jain-hemant" height="22px">
-    </a> -->
+
+  <a href="https://github.com/jain-hemant/">
+      <img alt="Link to my GitHub" src="./static/images/gh_header.png" width="100%">
+  </a>
 <!-- <h1 align="center">𝓘 𝓪𝓶 𝓗𝓮𝓶𝓪𝓷𝓽 𝓙𝓪𝓲𝓷</h1>
 <p align="center">
   <a href="https://github.com/jain-hemant/readme-typing-svg">
