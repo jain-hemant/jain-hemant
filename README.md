@@ -201,6 +201,8 @@
   <!-- <img title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/> -->
 </p>
 
+
+<!-- 
 <style>
 html {
   scroll-behavior: smooth;
@@ -209,4 +211,4 @@ html {
 a[href^="#"] {
   transition: all 0.3s ease-in-out;
 }
-</style>
+</style> -->
